@@ -1,2 +1,2 @@
 # BullCowUnreal
-This is the Unreal Engine 4 version of the BullCowGame
+This is the WOP Unreal Engine 4 version of the BullCowGame
