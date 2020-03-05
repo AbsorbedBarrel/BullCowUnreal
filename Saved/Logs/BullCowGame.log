@@ -1,0 +1,641 @@
+﻿Log file open, 03/05/20 18:09:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BullCowGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.557121
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 3 2200G with Radeon Vega Graphics    , GPU: AMD Radeon(TM) Vega 8 Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.03.05-23.09.39:740][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.05-23.09.39:740][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.05-23.09.39:741][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.03.05-23.09.39:741][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.03.05-23.09.39:747][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-23.09.39:747][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-23.09.39:748][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-23.09.39:751][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-23.09.39:751][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.05-23.09.39:781][  0]LogHAL: Display: Platform has ~ 15 GB [16049115136 / 17179869184 / 15], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.05-23.09.39:782][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.05-23.09.39:782][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-23.09.39:782][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-23.09.39:783][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.05-23.09.39:784][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.05-23.09.39:784][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.05-23.09.39:784][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.03.05-23.09.39:785][  0]LogInit: Computer: BARREL
+[2020.03.05-23.09.39:785][  0]LogInit: User: visva
+[2020.03.05-23.09.39:785][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.05-23.09.39:785][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.05-23.09.39:785][  0]LogMemory: Memory total: Physical=14.9GB (15GB approx)
+[2020.03.05-23.09.39:785][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.05-23.09.39:785][  0]LogMemory: Process Physical Memory: 97.34 MB used, 97.34 MB peak
+[2020.03.05-23.09.39:785][  0]LogMemory: Process Virtual Memory: 86.02 MB used, 86.02 MB peak
+[2020.03.05-23.09.39:785][  0]LogMemory: Physical Memory: 4999.32 MB used,  10306.30 MB free, 15305.63 MB total
+[2020.03.05-23.09.39:785][  0]LogMemory: Virtual Memory: 4620.64 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.03.05-23.09.39:892][  0]LogInit: Using OS detected language (en-US).
+[2020.03.05-23.09.39:892][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.05-23.09.39:893][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.05-23.09.40:139][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.05-23.09.40:361][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.05-23.09.40:361][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.05-23.09.40:774][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-23.09.40:774][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.05-23.09.40:796][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2020.03.05-23.09.40:796][  0]LogD3D11RHI:       1008/0/7652 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.03.05-23.09.40:799][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.05-23.09.40:799][  0]LogD3D11RHI:       0/0/7652 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.05-23.09.40:799][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.05-23.09.40:807][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.05-23.09.40:807][  0]LogD3D11RHI:     GPU DeviceId: 0x15dd (for the marketing name, search the web for "GPU Device Id")
+[2020.03.05-23.09.40:807][  0]LogWindows: EnumDisplayDevices:
+[2020.03.05-23.09.40:807][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics' (P:1 D:1)
+[2020.03.05-23.09.40:807][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.03.05-23.09.40:808][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.03.05-23.09.40:809][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.03.05-23.09.40:810][  0]LogWindows:    4. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.03.05-23.09.40:810][  0]LogWindows:    5. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.03.05-23.09.40:810][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2020.03.05-23.09.40:811][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Vega 8 Graphics
+[2020.03.05-23.09.40:811][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.11.3 (internal:26.20.13031.18002, unified:26.20.13031.18002)
+[2020.03.05-23.09.40:811][  0]LogD3D11RHI:      Driver Date: 11-15-2019
+[2020.03.05-23.09.40:811][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2020.03.05-23.09.40:857][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.05-23.09.40:866][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-23.09.40:867][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-23.09.40:867][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-23.09.40:875][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.03.05-23.09.41:766][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.05-23.09.41:783][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.05-23.09.41:800][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.05-23.09.41:817][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.05-23.09.41:835][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.05-23.09.41:854][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.05-23.09.41:876][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.05-23.09.41:896][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.05-23.09.41:907][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.05-23.09.42:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.05-23.09.42:015][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.05-23.09.42:074][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.05-23.09.42:074][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.05-23.09.42:102][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.05-23.09.42:102][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.05-23.09.42:118][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.05-23.09.42:133][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.05-23.09.42:149][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.05-23.09.42:168][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.05-23.09.42:222][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.05-23.09.42:222][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.05-23.09.42:222][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.05-23.09.42:239][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.05-23.09.42:358][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Intermediate/Shaders/WorkingDirectory/5896/).
+[2020.03.05-23.09.42:358][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/visva/AppData/Local/Temp/UnrealShaderWorkingDir/4D731743478E22BA7DEC97B1A11F4B3E/'.
+[2020.03.05-23.09.42:361][  0]LogXGEController: Cleaning working directory: C:/Users/visva/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.05-23.09.42:362][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.05-23.09.42:362][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.05-23.09.42:362][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.05-23.09.43:146][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.05-23.09.43:313][  0]LogDerivedDataCache: Loaded boot cache 0.17s 71MB C:/Users/visva/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-23.09.43:313][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/visva/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.05-23.09.43:313][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.05-23.09.43:313][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.05-23.09.43:313][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-23.09.43:313][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.05-23.09.43:328][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.05-23.09.43:328][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-23.09.43:328][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.05-23.09.43:342][  0]LogDerivedDataCache: Using Local data cache path C:/Users/visva/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.05-23.09.43:342][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.05-23.09.43:342][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.05-23.09.43:366][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.05-23.09.43:371][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.05-23.09.43:374][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.05-23.09.43:531][  0]LogAssetRegistry: FAssetRegistry took 0.0370 seconds to start up
+[2020.03.05-23.09.44:020][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-23.09.44:161][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.05-23.09.44:161][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.05-23.09.44:162][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.05-23.09.44:162][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.05-23.09.44:162][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.05-23.09.44:276][  0]LogNetVersion: BullCowGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2070390679)
+[2020.03.05-23.09.45:162][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.143288 seconds
+[2020.03.05-23.09.45:171][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.05-23.09.45:171][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.05-23.09.45:171][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.05-23.09.46:993][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.05-23.09.47:009][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.05-23.09.47:227][  0]SourceControl: Source control is disabled
+[2020.03.05-23.09.47:227][  0]SourceControl: Source control is disabled
+[2020.03.05-23.09.47:237][  0]SourceControl: Source control is disabled
+[2020.03.05-23.09.47:241][  0]SourceControl: Source control is disabled
+[2020.03.05-23.09.47:420][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.05-23.09.47:553][  0]LogOcInput: OculusInput pre-init called
+[2020.03.05-23.09.48:292][  0]LogEngine: Initializing Engine...
+[2020.03.05-23.09.48:294][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-23.09.48:296][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.03.05-23.09.48:520][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.05-23.09.48:561][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.05-23.09.48:591][  0]LogInit: XAudio2 using '1 - T24 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-23.09.48:613][  0]LogInit: FAudioDevice initialized.
+[2020.03.05-23.09.48:613][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.05-23.09.48:687][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/visva/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-23.09.48:692][  0]LogInit: Texture streaming: Enabled
+[2020.03.05-23.09.48:719][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.05-23.09.48:752][  0]LogInit: Transaction tracking system initialized
+[2020.03.05-23.09.48:808][  0]BlueprintLog: New page: Editor Load
+[2020.03.05-23.09.48:994][  0]LocalizationService: Localization service is disabled
+[2020.03.05-23.09.49:409][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Content/' took 0.02s
+[2020.03.05-23.09.49:409][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.05-23.09.49:409][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.05-23.09.49:765][  0]SourceControl: Source control is disabled
+[2020.03.05-23.09.49:766][  0]Cmd: MAP LOAD FILE="D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-23.09.49:840][  0]LightingResults: New page: Lighting Build
+[2020.03.05-23.09.49:848][  0]MapCheck: New page: Map Check
+[2020.03.05-23.09.49:848][  0]LightingResults: New page: Lighting Build
+[2020.03.05-23.09.49:873][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.03.05-23.09.51:338][  0]LogAIModule: Creating AISystem for world Level1
+[2020.03.05-23.09.51:401][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-23.09.51:425][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.03.05-23.09.51:425][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-23.09.51:425][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2020.03.05-23.09.51:425][  0]LogFileHelpers: Loading map 'Level1' took 1.660
+[2020.03.05-23.09.51:566][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-23.09.51:573][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-23.09.51:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-23.09.51:587][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-23.09.51:647][  0]LogCollectionManager: Loaded 0 collections in 0.001989 seconds
+[2020.03.05-23.09.51:689][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Saved/Collections/' took 0.01s
+[2020.03.05-23.09.51:689][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Content/Developers/visva/Collections/' took 0.01s
+[2020.03.05-23.09.51:689][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/Content/Collections/' took 0.00s
+[2020.03.05-23.09.51:689][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.05-23.09.51:701][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2737 classes and 664 folders.
+[2020.03.05-23.09.51:715][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.05-23.09.51:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-23.09.51:822][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.05-23.09.51:835][  0]LogSlate: Took 0.000964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.05-23.09.51:838][  0]LogSlate: Took 0.001014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.05-23.09.51:844][  0]LogSlate: Took 0.000707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.05-23.09.51:913][  0]LogRenderer: Reallocating scene render targets to support 1108x596 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-23.09.52:003][  0]LogSlate: Took 0.000976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-23.09.52:115][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.03.05-23.09.52:115][  0]LogLoad: (Engine Initialization) Total time: 17.18 seconds
+[2020.03.05-23.09.52:115][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.05-23.09.52:165][  0]LogAssetRegistry: Asset discovery search completed in 8.6574 seconds
+[2020.03.05-23.09.52:168][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.05-23.09.52:168][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2020.03.05-23.09.52:171][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.05-23.14.05:292][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-23.14.05:370][790]Candidate modules for hot reload:
+[2020.03.05-23.14.05:370][790]  BullCowGame
+[2020.03.05-23.14.05:370][790]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,366 Win64 Development -TargetType=Editor -Project="D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/BullCowGame.uproject" "D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.03.05-23.14.05:431][790]Warning: Starting HotReload took  0.1s.
+[2020.03.05-23.15.44:866][541]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 1:15:44 PM
+[2020.03.05-23.15.44:866][541]CompilerResultsLog: Creating makefile for BullCowGameEditor (ini files are newer than makefile)
+[2020.03.05-23.15.44:866][541]CompilerResultsLog: Parsing headers for BullCowGameEditor
+[2020.03.05-23.15.44:867][541]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealCourse\BullCowUE4.22\BullCowGame-starter-kit\BullCowGame.uproject" "D:\UnrealCourse\BullCowUE4.22\BullCowGame-starter-kit\Intermediate\Build\Win64\BullCowGameEditor\Development\BullCowGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-23.15.44:867][541]CompilerResultsLog: Reflection code generated for BullCowGameEditor in 7.3566291 seconds
+[2020.03.05-23.15.44:867][541]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-23.15.44:867][541]CompilerResultsLog: Building 5 actions with 4 processes...
+[2020.03.05-23.15.44:867][541]CompilerResultsLog:   [1/5] BullCowCartridge.cpp
+[2020.03.05-23.15.44:867][541]CompilerResultsLog:    D:\UnrealCourse\BullCowUE4.22\BullCowGame-starter-kit\Source\BullCowGame\BullCowCartridge.cpp(8) : error C2146: syntax error: missing ';' before identifier 'PrintLine'
+[2020.03.05-23.15.44:867][541]CompilerResultsLog:   [2/5] BullCowCartridge.gen.cpp
+[2020.03.05-23.15.44:867][541]LogMainFrame: MainFrame: Module compiling took 99.501 seconds
+[2020.03.05-23.15.44:867][541]Warning: HotReload failed, recompile failed
+[2020.03.05-23.15.52:673][956]LogSlate: Window 'Message Log' being destroyed
+[2020.03.05-23.15.52:676][956]LogSlate: Window 'Message Log' being destroyed
+[2020.03.05-23.16.03:114][129]Candidate modules for hot reload:
+[2020.03.05-23.16.03:114][129]  BullCowGame
+[2020.03.05-23.16.03:114][129]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,3091 Win64 Development -TargetType=Editor -Project="D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/BullCowGame.uproject" "D:/UnrealCourse/BullCowUE4.22/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.03.05-23.16.03:175][129]Warning: Starting HotReload took  0.1s.
+[2020.03.05-23.16.14:073][222]CompilerResultsLog: New page: Compilation - Mar 5, 2020, 1:16:14 PM
+[2020.03.05-23.16.14:073][222]CompilerResultsLog: Parsing headers for BullCowGameEditor
+[2020.03.05-23.16.14:073][222]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealCourse\BullCowUE4.22\BullCowGame-starter-kit\BullCowGame.uproject" "D:\UnrealCourse\BullCowUE4.22\BullCowGame-starter-kit\Intermediate\Build\Win64\BullCowGameEditor\Development\BullCowGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.05-23.16.14:073][222]CompilerResultsLog: Reflection code generated for BullCowGameEditor in 6.5186708 seconds
+[2020.03.05-23.16.14:073][222]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.05-23.16.14:073][222]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.03.05-23.16.14:073][222]CompilerResultsLog:   [1/4] BullCowCartridge.cpp
+[2020.03.05-23.16.14:073][222]CompilerResultsLog:   [2/4] UE4Editor-BullCowGame-3091.lib
+[2020.03.05-23.16.14:073][222]CompilerResultsLog:      Creating library D:\UnrealCourse\BullCowUE4.22\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-3091.lib and object D:\UnrealCourse\BullCowUE4.22\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-3091.exp
+[2020.03.05-23.16.14:073][222]CompilerResultsLog:   [3/4] UE4Editor-BullCowGame-3091.dll
+[2020.03.05-23.16.14:073][222]CompilerResultsLog:      Creating library D:\UnrealCourse\BullCowUE4.22\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-3091.suppressed.lib and object D:\UnrealCourse\BullCowUE4.22\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-3091.suppressed.exp
+[2020.03.05-23.16.14:073][222]CompilerResultsLog:   [4/4] BullCowGameEditor.target
+[2020.03.05-23.16.14:073][222]CompilerResultsLog: Total time in Parallel executor: 2.83 seconds
+[2020.03.05-23.16.14:073][222]CompilerResultsLog: Total execution time: 10.62 seconds
+[2020.03.05-23.16.14:073][222]LogMainFrame: MainFrame: Module compiling took 10.963 seconds
+[2020.03.05-23.16.14:093][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.03.05-23.16.14:108][222]LogClass: Could not find existing class BullCowCartridge in package /Script/BullCowGame for HotReload, assuming new class
+[2020.03.05-23.16.14:115][222]LogHotReload: Re-instancing BullCowCartridge after hot-reload.
+[2020.03.05-23.16.14:213][222]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0006 seconds. Added 4 classes and 3 folders.
+[2020.03.05-23.16.14:217][222]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.03.05-23.16.14:306][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.05-23.16.14:315][222]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2737 classes and 664 folders.
+[2020.03.05-23.16.14:323][222]Display: HotReload took 11.2s.
+[2020.03.05-23.16.21:951][286]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-23.16.21:961][286]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.03.05-23.16.21:962][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-23.16.21:962][286]PIE: New page: PIE session: Level1 (Mar 5, 2020, 1:16:21 PM)
+[2020.03.05-23.16.21:975][286]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.03.05-23.16.22:024][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048621s)
+[2020.03.05-23.16.22:025][286]LogAIModule: Creating AISystem for world Level1
+[2020.03.05-23.16.22:025][286]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2020.03.05-23.16.22:025][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.049649s)
+[2020.03.05-23.16.22:043][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.05-23.16.22:062][286]LogInit: XAudio2 using '1 - T24 (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-23.16.22:074][286]LogInit: FAudioDevice initialized.
+[2020.03.05-23.16.22:113][286]LogLoad: Game class is 'GameModeBase'
+[2020.03.05-23.16.22:119][286]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.03.05-18.16.22
+[2020.03.05-23.16.22:121][286]LogWorld: Bringing up level for play took: 0.005146
+[2020.03.05-23.16.22:164][286]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.03.05-23.16.22:166][286]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0.862
+[2020.03.05-23.16.22:166][286]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.03.05-23.16.28:812][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.03.05-23.16.28:812][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-23.16.28:861][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-23.16.28:862][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.03.05-23.16.28:885][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-23.16.28:889][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.03.05-23.16.28:916][661]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.03.05-23.16.30:271][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-23.19.50:115][328]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
